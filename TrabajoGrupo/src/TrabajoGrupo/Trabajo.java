@@ -60,7 +60,7 @@ public class Trabajo {
 					 partidos[fila][0] + " "+ partidos[fila][1]+"\n");}
 				break;
 			case 3:
-				apuesta.apuesta(ver2);
+				//apuesta.apuesta(ver2);
 				System.out.println("1: Ver Resultados");
 				System.out.println("2: Ver Ganador");
 				System.out.println("3: Atras");
